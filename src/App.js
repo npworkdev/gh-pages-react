@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          NPWorkDev <code>React page</code> of GitHub Repository
         </p>
         <a
           className="App-link"
